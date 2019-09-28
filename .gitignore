@@ -1,0 +1,4 @@
+source 
+dest
+src/__pycache__
+.DS_Store
